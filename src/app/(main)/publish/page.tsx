@@ -5,5 +5,5 @@ export default function page() {
                 <span className="text-4xl">Publish Page</span>
             </div>
         </div>
-    )
+    );
 }
